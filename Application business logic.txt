@@ -1,0 +1,75 @@
+#Display this message:
+
+"This questionnaire will be used to ascertain your basic information to work out your payment flow."
+
+
+
+
+1)"Firstly, please enter information on the sender account and the account holder."
+
+a)"Please enter the sender name"
+b)"Please enter the sender country of origin"
+c)"Please enter the sender bank account country"
+d)"Please enter the sender bank account type (i.e. personal or corporate)"
+e)"Please enter the currency of the amount deposited"
+f)"Please enter the method of transfer i.e. wire transfer, cash etc."
+
+2)"Please enter information on the recipient's account. Press enter to continue.",'Continue'
+
+a)"Please enter the beneficiary name"
+b)"Please enter the beneficiary country of origin"
+c)"Please enter the beneficiary bank account country"
+d)"Please enter the beneficiary bank account type (i.e. personal or corporate)"
+e)"Please enter the currency of the amount deposited"
+f)"Please enter the method of transfer i.e. wire transfer, cash etc."
+
+3)"Finally please enter the reason for the transfer"
+
+If 1) d) or 2) d) = personal then 
+
+For Individuals:
+
+A Copy of Passport or driving license
+B Proof of residential address (Utility bill or bank statement issued in last 3 months
+and addressed to the individual)
+
+In the case of an individual living outside of the UK, PayConstruct will use its judgement in gathering documentation, 
+depending on availability of information in the market, in order to gain sufficient comfort about the legitimacy of the individual. 
+For example, for an individual living in China we will require the following documents:
+
+A Copy of Chinese ID card (front and back)
+B Copy of Passport (if available)
+C Copy of Bank card (front only)
+D Proof of residential address (Utility bill or bank statement issued in last 3 months and
+addressed to individual)
+
+If 1) d) or 2) d) = !personal then 
+
+For Individuals:
+
+A Copy of Passport or driving license
+B Proof of residential address (Utility bill or bank statement issued in last 3 months
+and addressed to the individual)
+
+In the case of an individual living outside of the UK, PayConstruct will use its judgement in gathering documentation, 
+depending on availability of information in the market, in order to gain sufficient comfort about the legitimacy of the individual. 
+For example, for an individual living in China we will require the following documents:
+
+A Copy of Chinese ID card (front and back)
+B Copy of Passport (if available)
+C Copy of Bank card (front only)
+D Proof of residential address (Utility bill or bank statement issued in last 3 months and
+addressed to individual)
+
+For Corporate entities:
+
+"We ask for this with every entity sending funds. We reserve the right to get full KYC on the beneficiary also. It really depends on the underlying reason for the transfer. 
+Our KYC requirements are Certified Copies of the following documents:"
+
+A Certificate of Incorporation;
+B Memorandum of Association;
+C Articles of Association;
+D either (i) Director Register and Shareholder Register, or (ii) latest Annual Review
+for the company;
+E Proof of Address for all directors and shareholders (UBOs) >25%; and
+F Passport copy for all directors and shareholders (UBOs) >25%.
